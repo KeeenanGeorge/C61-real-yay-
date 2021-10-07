@@ -1,0 +1,26 @@
+body{
+    text-align:center;
+}
+h1{
+    font-size :40px;
+    font-family:cursive;
+    font-weight:300;
+}
+#app{
+    background-color: brown;
+}
+#game{
+    background-color: burlywood;
+}
+#art{
+    background-color: darkkhaki;
+}
+#chatbot{
+    background-color: gainsboro;
+}
+.line{
+    height:6px;
+    background-color: darkslategrey;
+    width:70px;
+   margin:8px auto;
+}
